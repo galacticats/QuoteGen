@@ -1,0 +1,40 @@
+html{
+  min-width: 550px;
+  min-height: 100%;
+}
+
+p{
+  text-align: center;
+  padding: 5px 5px 0;
+  font-family : "Open Sans", sans-serif;
+}
+
+p, .btn{
+  color: white !important;
+}
+
+#mainRow{
+  height: 100vh;
+}
+
+#quote-box{
+  border-radius: 10px;
+  padding: 25px;
+}
+
+#text{
+  font-size: 1.7em;
+  font-weight: 700;
+}
+
+#author{
+  font-size: 1em;
+  text-align: right;
+  padding-top: 0;
+  font-weight: light;
+}
+
+#buttonRow{
+  justify-content: space-around;
+  padding-top: 10px;
+}
